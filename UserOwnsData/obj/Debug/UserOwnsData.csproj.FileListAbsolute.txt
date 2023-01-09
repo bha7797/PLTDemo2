@@ -1,0 +1,561 @@
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\4\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\6\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-kummanoj\Downloads\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-rohitmalik\OneDrive - Microsoft\Desktop\PLT Project\7\NET Framework\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-chpah\Downloads\PLT Application\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.KeyVault.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.KeyVault.WebKey.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.Services.AppAuthentication.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\PLT\ho ho ho - Copy\ho ho ho - Copy\wassup\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll.config
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\UserOwnsData.pdb
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.KeyVault.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Owin.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\EntityFramework.SqlServer.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Identity.Client.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\Newtonsoft.Json.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Helpers.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Mvc.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.Razor.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.dll
+C:\Users\v-kummanoj\Downloads\11\.NET Framework\Embed for your organization\UserOwnsData\obj\Debug\UserOwnsData.pdb
+D:\PLTDemo\UserOwnsData\obj\Debug\UserOwnsData.csproj.AssemblyReference.cache
+D:\PLTDemo\UserOwnsData\obj\Debug\UserOwnsData.csproj.CoreCompileInputs.cache
+D:\PLTDemo\UserOwnsData\obj\Debug\UserOwnsData.dll
+D:\PLTDemo\UserOwnsData\obj\Debug\UserOwnsData.pdb
+D:\PLTDemo\UserOwnsData\bin\UserOwnsData.dll.config
+D:\PLTDemo\UserOwnsData\bin\UserOwnsData.dll
+D:\PLTDemo\UserOwnsData\bin\UserOwnsData.pdb
+D:\PLTDemo\UserOwnsData\bin\EntityFramework.dll
+D:\PLTDemo\UserOwnsData\bin\EntityFramework.SqlServer.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Azure.KeyVault.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Azure.KeyVault.WebKey.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Azure.Services.AppAuthentication.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Identity.Client.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\PLTDemo\UserOwnsData\bin\Newtonsoft.Json.dll
+D:\PLTDemo\UserOwnsData\bin\Owin.dll
+D:\PLTDemo\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.Helpers.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.Mvc.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.Razor.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.dll
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\PLTDemo\UserOwnsData\bin\EntityFramework.xml
+D:\PLTDemo\UserOwnsData\bin\EntityFramework.SqlServer.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Identity.Client.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\PLTDemo\UserOwnsData\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\PLTDemo\UserOwnsData\bin\Newtonsoft.Json.xml
+D:\PLTDemo\UserOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.Helpers.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.Mvc.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.Razor.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\PLTDemo\UserOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\PLTDemo\UserOwnsData\obj\Debug\UserOwnsData.csproj.CopyComplete

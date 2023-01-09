@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TestDBEntities-Web.config Connection String" description="TestDBEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=Provider=SQLOLEDB.1;Password=$ecr3T!0!P@$$word;Persist Security Info=True;User ID=mksa;Initial Catalog=TestDB;Data Source=auisqlsr2k17maq.database.windows.net" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\v-kummanoj\\Downloads\\11\\\.NET\ Framework\\Embed\ for\ your\ organization\\UserOwnsData\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TestDBEntities']/@connectionString" />
+  </parameter>
+</parameters>
